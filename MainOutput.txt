@@ -1,0 +1,7 @@
+Sl.No	Login_ID	Password	Login_Test_Status	Order_Status
+1	standard_user	secret_sauce	login_test_passed	Order_completed
+2	locked_out_user	secret_sauce	Login_failed	Login_failed
+3	problem_user	secret_sauce	Login_failed	Login_failed
+4	performance_glitch_user	secret_sauce	login_test_passed	Order_completed
+5	error_user	secret_sauce	Login_failed	Login_failed
+6	visual_user	secret_sauce	login_test_passed	Order_completed
